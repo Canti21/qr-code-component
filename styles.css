@@ -45,6 +45,7 @@ main
     padding: 20px;
     margin: 0 auto;
     margin-bottom: 20px;
+    box-shadow: 0 0 23px 0px rgba(138,138,138,0.75);
 }
 
 .card-container img
